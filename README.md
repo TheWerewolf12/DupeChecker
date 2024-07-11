@@ -1,4 +1,20 @@
-# DupeChecker
+<h1 align="center">SkyBlock DupeChecker</h1>
+
+<div align="center">
+    <!-- release -->
+    <a href="https://github.com/TheWerewolf12/DupeChecker/releases/latest" target="_blank">
+        <img src="https://img.shields.io/github/v/release/TheWerewolf12/DupeChecker?color=informational&include_prereleases&label=release&logo=github&logoColor=white" alt="release">
+    </a>
+    <!-- lines -->
+    <a href="https://github.com/TheWerewolf12/DupeChecker/graphs/code-frequency" target="_blank">
+        <img src="https://img.shields.io/tokei/lines/github/TheWerewolf12/DupeChecker?label=lines&color=informational&logo=GitHub" alt="lines">
+    </a>
+    <!-- contributors -->
+    <a href="https://github.com/TheWerewolf12/DupeChecker/graphs/contributors" target="_blank">
+        <img src="https://img.shields.io/github/contributors/TheWerewolf12/DupeChecker?color=informational&logo=GitHub" alt="contributors">
+    </a>
+</div>
+
 DupeChecker mod for hypixel skyblock
 
 - there are 2 versions availabe for this mod: a standalone jar file, & a ChatTriggers module
