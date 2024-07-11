@@ -28,6 +28,14 @@ While in-game type '**/dupecheck**'! Our mod will send a request to [our api](ht
 
 [The API](https://dupechecker.pythonanywhere.com/) will also update it's database with YOUR items! This means that the more people using the mod, the more accurate our model will be!
 
+## How to install?
+We made yall an easy to follow guide [live on figma](https://www.figma.com/design/NTitSnLidfVPQ9Ye4x3Jv1/DupeChecker-mod-installation-Guide?node-id=0-1&t=Wj8NomROPypdzxn3-1) with full download & use instructions.
+
+**Note: if you are not familiar with figma:**
+- ctrl + scroll to zoom in/out
+- Scroll to move up/down
+- Hold middle click to move the whole screen
+
 
 ## We encourage you to try & verify yourself.
 
