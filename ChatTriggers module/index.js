@@ -81,5 +81,6 @@ register("command", (event) => {
   }).setName("dupecheck").setAliases("checkdupe", "checkduped");
 
 register("worldLoad", () => {
-    ChatLib.chat("§aDupechecker loaded!")
+    ChatLib.chat("§aDupechecker loaded! verifying hand...")
+    check_hand(false, `${Player.getHeldItem()}`)
 });
