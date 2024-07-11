@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "dupechecker",
+    "name": "dupechecker",
+    "description": "Implements a command that checks if your item is possibly duped in Hypixel Skyblock",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authors": ["Me :)"],
+    "credits": "Me :)",
+    "logoFile": "dupechecker.png",
+    "screenshots": [],
+    "parent":"",
+    "dependencies": []
+  }
+]

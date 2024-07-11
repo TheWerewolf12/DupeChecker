@@ -1,0 +1,9 @@
+{
+    "name": "DupeChecker",
+    "creator": "TheWerewolf12",
+    "version": "1.0.0",
+    "entry":"index.js",
+    "requires": [
+        "axios"
+    ]
+}
