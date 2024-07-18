@@ -24,9 +24,9 @@ DupeChecker mod for hypixel skyblock
 **ChatTriggers Module is recommended**
 
 ## How does it work?
-While in-game type '**/dupecheck**'! Our mod will send a request to [our api](https://dupechecker.pythonanywhere.com/) to check if an item with the same uuid has already been registered by another user, it will then enter in chat its suspicions about the item.
+While in-game type '**/dupecheck**'! Our mod will send a request to [our api](https://dupecheck.pythonanywhere.com/) to check if an item with the same uuid has already been registered by another user, it will then enter in chat its suspicions about the item.
 
-[The API](https://dupechecker.pythonanywhere.com/) will also update it's database with YOUR items! This means that the more people using the mod, the more accurate our model will be!
+[The API](https://dupecheck.pythonanywhere.com/) will also update it's database with YOUR items! This means that the more people using the mod, the more accurate our model will be!
 
 ## How to install?
 We made yall an easy to follow guide [live on figma](https://www.figma.com/design/NTitSnLidfVPQ9Ye4x3Jv1/DupeChecker-mod-installation-Guide?node-id=0-1&t=Wj8NomROPypdzxn3-1) with full download & use instructions.
