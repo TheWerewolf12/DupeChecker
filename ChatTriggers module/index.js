@@ -1,11 +1,13 @@
 const API_calls = Java.type("com.rtd.dupechecker.ChatTriggers");
 import axios from "axios";
 
+var first_launch = true;
+
 // Note: the ONLY part accessed from the .jar file is the getItemData function.
 // All other functions are not being run by this module.
 
 function API(argument) {
-    return "https://dupechecker.pythonanywhere.com/api"+argument;
+    return "https://dupecheck.pythonanywhere.com/api"+argument;
 };
 
 function verify(item_uuid) {
@@ -81,6 +83,9 @@ register("command", (event) => {
   }).setName("dupecheck").setAliases("checkdupe", "checkduped");
 
 register("worldLoad", () => {
-    ChatLib.chat("§aDupechecker loaded! verifying hand...")
-    check_hand(false, `${Player.getHeldItem()}`)
+    if (first_launch) {
+        first_launch = false
+        ChatLib.chat("§aDupechecker loaded!")
+        check_hand(true, `${Player.getHeldItem()}`) //verifying hand...
+    }
 });
