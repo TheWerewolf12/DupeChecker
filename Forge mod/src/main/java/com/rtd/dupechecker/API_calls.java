@@ -26,7 +26,7 @@ public class API_calls {
     /* ---------------------------------------------------- */
 
     private static URL API(String argument) throws MalformedURLException {
-        return new URL("https://dupechecker.pythonanywhere.com/api"+argument);
+        return new URL("https://dupecheck.pythonanywhere.com/api"+argument);
     }
 
     private static Session thePlayer;
