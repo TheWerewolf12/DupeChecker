@@ -37,7 +37,7 @@ We made yall an easy to follow guide [live on figma](https://www.figma.com/desig
 - Hold middle click to move the whole screen
 
 
-## We encourage you to try & verify yourself.
+## We encourage you to try & verify authenticity yourself.
 
 **[Verified by isthisarat.com](isthisarat.com)**
 ![Verified by isthisarat.com](isthisarat.png)
